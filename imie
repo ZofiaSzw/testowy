@@ -1,3 +1,5 @@
 imie = input("Cześć jak masz na imię?)
 print("Witaj", imie)
 wiek = int(input("ile masz lat?")
+print("Masz", wiek, "lat")
+print("cokolwiek")
