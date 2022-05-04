@@ -1,0 +1,2 @@
+imie = input("Cześć jak masz na imię?)
+print("Witaj", imie)
